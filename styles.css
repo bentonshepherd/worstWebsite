@@ -1,0 +1,56 @@
+#bodyHome {
+    display: block;
+    position: relative;
+    width: 100%;
+    text-align: center;
+    background-color: #8eff88;
+}
+
+#bodyP1 {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    background-color: #72abff;
+}
+
+#bodyP2 {
+    display: block;
+    position: relative;
+    width: 100%;
+    text-align: center;
+    background-color: #ff747b;
+}
+
+#headingHome {
+    padding: 10px;
+    border: 15px solid green;
+    margin: 65px;
+}
+
+#heading1 {
+    position: absolute;
+    padding: 10px;
+    border: 15px solid #000280;
+    margin: 65px;
+}
+
+#heading2 {
+    position: absolute;
+    padding: 10px;
+    border: 15px solid #800004;
+    margin: 65px;
+}
+
+#img3 {
+    padding: 20px;
+    float: left;
+}
+
+#img4 {
+    padding: 20px;
+    float: right;
+}
+
+#img5 {
+    padding: 20px;
+}
